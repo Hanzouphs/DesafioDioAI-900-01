@@ -5,7 +5,7 @@ Para utilizar o Azure Machine Learning, foi necessário aprovisionar um espaço 
 
 Passos necessários:
 
-* Entrar no portal do Azure usando https://portal.azure.comsuas credenciais da Microsoft.
+* Entrar no portal do Azure usando https://portal.azure.com suas credenciais da Microsoft.
 * Selecione + Criar um recurso , pesquise Machine Learning e crie um novo recurso do Azure Machine Learning.
 * Selecione Launch Studio (ou abra uma nova guia do navegador e navegue até https://ml.azure.com e entre no Azure Machine Learning Studio usando sua conta da Microsoft). Feche todas as mensagens exibidas.
 * No estúdio Azure Machine Learning, você deverá ver seu espaço de trabalho recém-criado. Caso contrário, selecione Todos os espaços de trabalho no menu à esquerda e selecione o espaço de trabalho que você acabou de criar.
